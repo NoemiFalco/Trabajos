@@ -9,6 +9,6 @@ total de trabajos
 
 [Web de artsitas](https://noemifalco.github.io/Moma-galeria/)
 
-[Web basada en cuadro de Mondrian y web propia (https://noemifalco.github.io/4_mondrian/)
+[Web basada en cuadro de Mondrian y web propia](https://noemifalco.github.io/4_mondrian/)
 
 
